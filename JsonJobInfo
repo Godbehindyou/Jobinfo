@@ -11,7 +11,18 @@
    "ProductText3": "一号测试3",  
    "ProductText4": "一号测试4",
    "ProductText5": "一号测试5"  
+    },
+    {
+   "JobName": "R230312_KH0002_M0001_0002",
+   "JobTemplate": "KH0002",
+   "IsFinal": "0",   
+   "IsVertical?": "0",
+   "Is4K": "0",
+   "ProductText1": "二号测试1",   
+   "ProductText2": "二号测试2",  
+   "ProductText3": "二号测试3",  
+   "ProductText4": "二号测试4",
+   "ProductText5": "二号测试5"  
     }
- 
 ]
 }
