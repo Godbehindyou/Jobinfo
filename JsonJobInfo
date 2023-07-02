@@ -1,0 +1,17 @@
+{
+  "OrderInfo": [
+    {
+   "JobName": "R230312_KH0001_M0001_0001",
+   "JobTemplate": "KH0001",
+   "IsFinal": "0",   
+   "IsVertical?": "0",
+   "Is4K": "0",
+   "ProductText1": "一号测试1",   
+   "ProductText2": "一号测试2",  
+   "ProductText3": "一号测试3",  
+   "ProductText4": "一号测试4",
+   "ProductText5": "一号测试5"  
+    }
+ 
+]
+}
